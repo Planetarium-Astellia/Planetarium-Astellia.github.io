@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: The one, Planetarium
 tags: [about, Jekyll, theme, moon]
 date: 2020-11-12
 comments: false
