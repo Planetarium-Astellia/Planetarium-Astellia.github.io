@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The one, Planetarium
+title: The one, Planetarium (플라네타리움)
 tags: [about, Jekyll, theme, moon]
 date: 2020-11-12
 comments: false
