@@ -8,7 +8,7 @@ comments: false
     
 <center><a href="http://Planetarium-Astellia.github.io"><b>The One, </b></a> Planetarium(플라네타리움)</center>
 
-## Features
+## Members
 * Master : 희재
 * Member : 하늘연달, 마운틴블레이드
 
