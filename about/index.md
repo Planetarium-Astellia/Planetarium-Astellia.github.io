@@ -6,7 +6,7 @@ date: 2020-11-12
 comments: false
 ---
     
-<center><a href="http://Planetarium-Astellia.github.io"><b>Planetarium</b></a> Astellia Guild</center>
+<center><a href="http://Planetarium-Astellia.github.io"><b>The One, </b></a> Planetarium</center>
 
 ## Features
 * Minimal, you can focus on your content
