@@ -2,6 +2,10 @@ lang:                  en
 title:                 Planetarium
 logo:                  /assets/icons/icon.png
 copyright:             © 2020. All rights reserved.
+remote_theme:          hydecorp/hydejack
+
+url         : "https://Planetarium-Astellia.github.io"
+baseurl     : ""
 
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
