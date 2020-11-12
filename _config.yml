@@ -10,6 +10,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://Planetarium-Astellia.github.io
 baseurl:            ""
+remote_theme :      TaylanTatli/Moon
 
 # Jekyll
 permalink:          /:title/
