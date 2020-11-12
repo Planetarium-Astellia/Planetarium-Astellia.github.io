@@ -5,7 +5,7 @@ categories: jekyll update
 ---
 
 
-여기엔 표를 그릴거에요.
+여기엔 아스텔 드랍를 그릴거에요.
 
 ​```python
 def print_hi(name):
