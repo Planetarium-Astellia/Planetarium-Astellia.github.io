@@ -14,8 +14,8 @@ comments: false
 
 ## Member View
 
-#{% capture images %}
 [마블님](https://github.com/Planetarium-Astellia/Planetarium-Astellia.github.io/blob/main/assets/img/%EC%95%84%EC%8A%A4%ED%85%94%EB%A6%AC%EC%95%84_%EB%A7%88%EB%B8%94.png)
+#{% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
 #{% endcapture %}
 #{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
