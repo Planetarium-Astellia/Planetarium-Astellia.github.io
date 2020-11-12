@@ -1,6 +1,6 @@
 ---
 title: "라그락."
-date: 2020-11-12 21:10:20 -0001
+date: 2020-11-12 21:19:20 -0001
 categories: Astell update
 ---
 
